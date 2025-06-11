@@ -1,4 +1,4 @@
-public class NumberType{
+public class Number{
     public static void main(String[] args){
         int num=20;
         System.out.println("enter the number");
